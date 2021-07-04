@@ -248,3 +248,9 @@ button:focus, input:focus {
         }
     }
 }
+
+@media (min-width: 1500px){
+  .content{
+    justify-content: space-between !important;
+  }
+}
