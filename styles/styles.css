@@ -271,4 +271,12 @@ button:focus, input:focus {
     font-size: 16px !important;
   }
 }
+
+@media (min-width: 1500px) {
+  .content {
+    -webkit-box-pack: justify !important;
+        -ms-flex-pack: justify !important;
+            justify-content: space-between !important;
+  }
+}
 /*# sourceMappingURL=styles.css.map */
