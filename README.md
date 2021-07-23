@@ -11,7 +11,7 @@
 </p>
 
 <h1 align="center">
-    <img alt="Desafio 2" src="/assets/home.png" />
+    Jordan Shoes
 </h1>
 
 <br>
